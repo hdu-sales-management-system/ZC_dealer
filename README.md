@@ -6,12 +6,20 @@
 
 如果对React或Ant Design感兴趣，但又不知如何入手的话，也可以参考下这个项目。
  
+* [关于之前](#之前)
 * [这是个啥东西](#需求背景)
 * [Quick Start](#quick-start)
 * [更新记录](CHANGELOG.md)
 * [TODO](docs/TODO.md)
 * [一些说明](#一些说明)
 * [更多文档](docs/README.md)
+
+##之前
+
+这个是用的模板，目前具有的功能有：
+通过Mock获取商品信息
+通过mock提交商品申请
+部分原作者内容未删除，包括这个readme都是原作者做的。
 
 ## 需求背景
 
